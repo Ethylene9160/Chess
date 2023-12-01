@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WesternChess:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WesternChess_jar</output-path>
+    <root id="archive" name="WesternChess.jar">
+      <element id="module-output" name="WesternChess" />
+    </root>
+  </artifact>
+</component>

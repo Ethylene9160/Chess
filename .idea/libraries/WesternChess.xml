@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="WesternChess">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/WesternChess_jar/WesternChess.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/WesternChess_jar/WesternChess.jar!/webout/example" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
